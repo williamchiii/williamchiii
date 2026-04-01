@@ -6,7 +6,7 @@ I'm [**William Chi**](https://www.linkedin.com/in/chiwilliam/), a software engin
 
 I am a Computer Science student at [@University of Florida](https://www.ufl.edu/) focused on full-stack engineering, iOS development, and building production-ready software.
 
-When I’m not *programming*, you can find me doing car stuff (GR86 🏎️), trying out new foods, hiking, or traveling (my favorite city is SF 🌁)
+When I’m not *programming*, you can find me tracking my car 🏁 (GR86 🏎️), trying out new foods, hiking, or traveling (my favorite city is SF 🌁)
 
 #### Connect with me :)
 
